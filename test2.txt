@@ -1,1 +1,2 @@
+copy from test1:
 hello, I am test1.txt
